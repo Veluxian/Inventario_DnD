@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .navbar{
     background-color: rgb(159, 132, 111);
 }
@@ -5,6 +9,7 @@
     width: 240px;
     height: 240px;
 }
+
 .thead{
     background-color: rgba(0, 0, 0, 0.945);
     font-family: "Press Start 2P";
@@ -13,6 +18,25 @@
     background-color: rgba(0, 0, 0, 0.815);
     font-family: "Press Start 2P";
 }
+
 th, td{
     color: white;
+}
+
+.test{
+    margin: 1%;
+    background-color: aquamarine;
+    float: left;
+}
+
+.pesos{
+    margin: 1%;
+    background-color: beige;
+    float: right;
+}
+
+.divtable{
+    margin-top: 10%;
+    width:80% ;
+    height: 100%;
 }
