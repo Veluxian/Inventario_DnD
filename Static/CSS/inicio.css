@@ -6,13 +6,14 @@
     height: 240px;
 }
 
+.table{
+    font-family: "Press Start 2P";
+}
 .thead{
     background-color: rgba(0, 0, 0, 0.945);
-    font-family: "Press Start 2P";
 }
 .tbody{
     background-color: rgba(0, 0, 0, 0.815);
-    font-family: "Press Start 2P";
 }
 
 th, td{
@@ -44,4 +45,16 @@ th, td{
     height: 100%;
     margin: 0 auto;
     clear: both;
+}
+.monedas{
+    margin: 1%;
+    border: 1px solid black;
+    width: 10%;
+    height: 20%;
+}
+
+.coin{
+    width: 25px;
+    height: 25px;
+    float: right;
 }
