@@ -1,3 +1,6 @@
+.page{
+    background-color: rgba(41, 36, 36, 0.455);
+}
 .navbar{
     background-color: rgb(159, 132, 111);
 }
@@ -27,15 +30,15 @@ th, td{
     text-align: center;
 }
 
-.test{
+.adicion{
     display: inline-block;
-    background-color: aquamarine;
+    background-color: rgb(179, 117, 117);
     vertical-align: middle;
 }
 
 .pesos{
     display: inline-block;
-    background-color: beige;
+    background-color: rgb(160, 160, 102);
     vertical-align: middle;
 }
 
