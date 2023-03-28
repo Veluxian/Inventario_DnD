@@ -1,3 +1,18 @@
 .navbar{
-    background-color: rgba(159, 132, 111, 0.836);
+    background-color: rgb(159, 132, 111);
+}
+.img-pxl{
+    width: 240px;
+    height: 240px;
+}
+.thead{
+    background-color: rgba(0, 0, 0, 0.945);
+    font-family: "Press Start 2P";
+}
+.tbody{
+    background-color: rgba(0, 0, 0, 0.815);
+    font-family: "Press Start 2P";
+}
+th, td{
+    color: white;
 }
