@@ -24,22 +24,24 @@ th, td{
 }
 
 .capsula{
-    border: 1px solid black;
-    margin: 1rem;
-    padding: 2rem 2rem;
-    text-align: center;
-}
+    margin: 5%;
+    padding: 2% 2%;
 
+}
+.encapsulado{
+    float: left;
+    width: 50%;
+}
 .adicion{
-    display: inline-block;
-    background-color: rgb(179, 117, 117);
-    vertical-align: middle;
+    float: left;
 }
 
 .pesos{
     display: inline-block;
-    background-color: rgb(160, 160, 102);
+    background-color: rgba(142, 113, 63, 0.718);
     vertical-align: middle;
+    width: 500px;
+    height: 300px;
 }
 
 .divtable{
@@ -51,7 +53,6 @@ th, td{
 }
 .monedas{
     margin: 1%;
-    border: 1px solid black;
     width: 10%;
     height: 20%;
 }
@@ -60,4 +61,7 @@ th, td{
     width: 25px;
     height: 25px;
     float: right;
+}
+p{
+    float: left;
 }
