@@ -42,6 +42,7 @@ th, td{
     vertical-align: middle;
     width: 500px;
     height: 300px;
+    border: 15px solid black;
 }
 
 .divtable{
@@ -64,4 +65,22 @@ th, td{
 }
 p{
     float: left;
+    
+}
+#testing{
+    margin-top: 10%;
+    margin-left: 5%;
+    justify-content: center;
+    font-size: larger;
+    font-family: "Press Start 2P";
+}
+
+.foot{
+    border: 1px solid black;
+    height: 95px;
+    background-color: rgb(159, 132, 111);
+}
+ul{
+    
+    text-align: center;
 }
