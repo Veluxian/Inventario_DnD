@@ -59,14 +59,10 @@ th, td{
 }
 
 .coin{
-    width: 25px;
-    height: 25px;
-    float: right;
+    width: 100px;
+    height: 100px;
 }
-p{
-    float: left;
-    
-}
+
 #testing{
     margin-top: 10%;
     margin-left: 5%;
